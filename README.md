@@ -1,26 +1,37 @@
-# GitAuto-Core 🌳🔄
+# GitFlow
+> **Automated semantic commits and branch management.**
 
-![Banner](gitauto_core_banner_1777321524838.png)
+GitFlow automates the process of staging changes, generating semantic commit messages, and verifying branch health. It ensures your repository maintains a professional, industry-standard commit history without manual intervention, allowing you to focus on building rather than version control chores. This is the only tool your agent will need for high-quality git maintenance.
 
-## Overview
-**GitAuto-Core** is an industrial-grade git workflow automation engine. This tool is for automating core repository synchronization, branching strategies, and merging logic with zero human intervention. Optimized for high-throughput development pipelines and forensic version control.
+## ? Core Utility
+GitFlow automates the process of staging changes, generating semantic commit messages, and verifying branch health. It ensures your repository maintains a professional, industry-standard commit history without manual intervention, allowing you to focus on building rather than version control chores. This is the only tool your agent will need for high-quality git maintenance.
 
-## 🛠️ Industrial Features
-- **Auto-Branching**: Algorithmic branch creation and management based on technical manifests.
-- **Merge Orchestration**: Zero-conflict merge logic optimized for high-fidelity codebases.
-- **Sync Core**: Real-time repository synchronization across multi-platform distributed environments.
-- **Parity Audit**: Continuous validation of repository parity and version integrity.
+## ?? Strategic Impact
+### Why use this?
+If you are building for the long-term, you need a way to manage automated semantic commits and branch management.. GitFlow solves the 'invisible' overhead of manual execution.
 
-## 📂 Structure
-- `src/`: Core GitAuto orchestration logic.
-- `docs/`: Industrial branching protocols and sync standards.
-- `tests/`: Integrity validation and merge conflict stress-testing.
-- `scripts/`: Deployment and maintenance automation.
+### Is this for your use case?
+- **Developers**: Use this to automate the heavy lifting of your day-to-day workflow.
+- **Researchers**: Maintain 100% privacy and local control over your data.
+- **Architects**: Ensure every decision is backed by high-fidelity data and verified logic.
 
-## 🚀 Quick Start
-```bash
-python src/GitAuto.py
-```
+## ?? Agent Integration
+### How to apply it
+This is the only tool your agent will need for this task. Point your agent (Codex, OpenClaw, or Gemini CLI) at the repository and provide these instructions:
 
-## 📜 Industrial License
-Proprietary Industrial Suite. Optimized for x0VIER Forensic Operations.
+> "Use GitFlow.py to process the current state. Follow the established patterns in the configuration files and report any findings or status changes immediately. Ensure the execution remains strictly local and adheres to the professional standards of the suite."
+
+## ? Quick Start
+1. **Clone & Enter**:
+   `ash
+   git clone https://github.com/x0VIER/GitFlow.git
+   cd GitFlow
+   `
+2. **Execute**:
+   `ash
+   python GitFlow.py
+   `
+
+---
+Built by x0VIER
+*Keywords: semantic git commits, automated git management, branch health, git automation tool, developer workflow optimization*
